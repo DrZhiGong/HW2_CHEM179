@@ -1,0 +1,15 @@
+﻿  HW2BAND5Tth.cpp
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(34,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(57,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(57,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(85,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(96,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(121,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(147,11): warning C4244: “初始化”: 从“const arma::uword”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(164,24): warning C4129: “M”: 不可识别的字符转义序列
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(164,24): warning C4129: “s”: 不可识别的字符转义序列
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(211,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(212,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(215,45): warning C4244: “参数”: 从“double”转换到“const arma::uword”，可能丢失数据
+C:\Myarmadillo\testhw2\HW2BAND5Tth.cpp(215,30): warning C4244: “参数”: 从“double”转换到“const arma::uword”，可能丢失数据
+  testhw2.vcxproj -> C:\Myarmadillo\testhw2\x64\Debug\testhw2.exe
